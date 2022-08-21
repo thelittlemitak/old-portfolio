@@ -64,5 +64,10 @@ rgb(224, 205, 167)
   font-weight: 500;
   margin-top: 4rem;
   margin-bottom: 6rem;
+  font-style: italic;
 
 }
+
+/* #personal-input-intro {
+  font-style: normal;
+} */
