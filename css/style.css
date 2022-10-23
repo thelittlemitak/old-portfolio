@@ -57,9 +57,12 @@ rgb(224, 205, 167)
   letter-spacing: -0.05rem;
 }
 
+.about-section {
+  margin-top: 10rem;
+}
 
 .section {
-  margin-bottom: 27rem;
+  margin-bottom: 20rem;
 }
 
 .personal-input {
